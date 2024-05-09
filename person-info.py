@@ -1,0 +1,5 @@
+firstname = input("what is your first name?")
+lastname = input ("what is your last name?")
+location = input("what is your location?")
+age = input ("what is your age?")
+print("Hello", firstname, lastname,location,age)
